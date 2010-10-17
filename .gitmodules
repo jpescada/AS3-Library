@@ -1,0 +1,3 @@
+[submodule "AS3-Library"]
+	path = AS3-Library
+	url = git@github.com:jpescada/AS3-Library.git
